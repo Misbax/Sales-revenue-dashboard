@@ -1,0 +1,8 @@
+Sales & Revenue Analysis Dashboard
+Prepared for MBA academic submission.
+
+Included:
+- index.html: working interactive dashboard
+- data/sales_data.csv: illustrative source data
+- README.md: project description and GitHub Pages instructions
+- docs/: reserved for screenshots/report files
